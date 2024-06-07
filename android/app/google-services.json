@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058371893085",
+    "project_id": "ticketapp-84104",
+    "storage_bucket": "ticketapp-84104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058371893085:android:c31ce801aab211dd349ab4",
+        "android_client_info": {
+          "package_name": "com.birkeren.ticketapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Kn6Jr-1lBi9A2bk_MJl5lSUBTKO5onA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
